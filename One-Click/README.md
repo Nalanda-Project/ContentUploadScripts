@@ -1,4 +1,4 @@
-# One-Click
+# One-Click (For Ubuntu 18.04)
 
 - Clone the repository on local device, after which oneclick folder will be created.
  
