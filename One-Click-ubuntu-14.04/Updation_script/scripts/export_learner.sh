@@ -1,9 +1,5 @@
 #!/bin/bash
 
-#This script is used to take the data of learners from kolibri and stores it in a file in local machine. All the 
-#errors are logged in file.
-
-
 if [ ! -d /home/kolibri/Desktop/Updation_script/ExportUsers ]; then
     zenity --error --text="ExportUsers folder is not found in your Updation_script folder. Contact your script creator"
 else

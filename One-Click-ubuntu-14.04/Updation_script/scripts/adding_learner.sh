@@ -1,9 +1,5 @@
 #!/bin/bash
 
-#This script is used to insert learners automatically to the kolibri from the Excel sheet. Google Chrome stable version 
-#is also installed if not present.
-
-
 echo -e "GET http://google.com HTTP/1.0\n\n" | nc google.com 80 > /dev/null 2>&1
 
 if [ $? -eq 0 ]; then

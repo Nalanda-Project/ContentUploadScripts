@@ -1,10 +1,5 @@
 #!/bin/bash
 
-#This script is used to install kolibri platform on the machine. All the required packages are installed and some files are copied to 
-#the required locations. Also permissions are changed as needed.
-
-
-
 echo -e "GET http://google.com HTTP/1.0\n\n" | nc google.com 80 > /dev/null 2>&1
 
 if [ $? -eq 0 ]; then

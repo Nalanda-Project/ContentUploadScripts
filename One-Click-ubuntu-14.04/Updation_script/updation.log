@@ -163,10 +163,3 @@ W: Ignoring Provides line with DepCompareOp for package gdb-minimal
 W: Ignoring Provides line with DepCompareOp for package gdb-minimal
 W: You may want to run apt-get update to correct these problems
 Platform setup is done 
-Mon Nov 25 12:51:29 IST 2019
-Installation of packages is started.
-The directory '/home/kolibri/.cache/pip/http' or its parent directory is not owned by the current user and the cache has been disabled. Please check the permissions and owner of that directory. If executing pip with sudo, you may want sudo's -H flag.
-The directory '/home/kolibri/.cache/pip' or its parent directory is not owned by the current user and caching wheels has been disabled. check the permissions and owner of that directory. If executing pip with sudo, you may want sudo's -H flag.
-Installation of packages is Done.
-
- Mon, 25 Nov 2019 07:22:17  Hotspot setup is started.Hotspot setup done 
